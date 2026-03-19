@@ -1,4 +1,5 @@
 # Coughyye
+
 # 💫 About Me:
 1. Ethical Hacker | Cybersecurity Researcher | Digital Forensics Expert<br>2. Founder & Entrepreneur working in Cyber Security & Data Protection<br>3. Recognized for bug bounty contributions with Meta, NASA, Apple & Google<br>4. Author of cybersecurity books including Ethical Hacking With Mrityunjay Singh<br>5. Experienced in Digital Forensics, Cyber Crime Investigation & Threat Intelligence<br>6. Conducted workshops & training for law enforcement, corporates & institutions<br>7. Skilled in Vulnerability Assessment, Penetration Testing & OSINT<br>8. Awarded Entrepreneur of the Year 2021 (Innovation in Technology)<br>9. Honored with Shree Kashi Gaurav Samman 2024 for cyber fraud prevention<br>10. Passionate about spreading cybersecurity awareness & building secure digital ecosystems
 
